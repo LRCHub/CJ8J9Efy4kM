@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おねがい神様",
+  "base_artist": "パーカーズ",
+  "createdAt": "2026-02-14T12:14:55.795732Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おねがい神様",
+      "artist": "パーカーズ",
+      "has_synced": false,
+      "path": "select/pl_01_おねがい神様_パーカーズ.txt"
+    }
+  ]
+}
